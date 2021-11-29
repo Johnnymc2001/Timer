@@ -59,7 +59,7 @@ namespace MainProgram
             this.Controls.Add(this.panelTimer);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "MainForm";
-            this.Text = "MultiTool";
+            this.Text = "Timer";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
